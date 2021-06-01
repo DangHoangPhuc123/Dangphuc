@@ -1,13 +1,14 @@
+<div align="center">
+# **[Advanced Programming with Python](https://moodle.usth.edu.vn/course/view.php?id=781)**
 
-# &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**[Advanced Programming with Python](https://moodle.usth.edu.vn/course/view.php?id=781)**
+# **Report Project: HOTEL MANAGEMENT SYSTEM**
 
-# &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Report Project: HOTEL MANAGEMENT SYSTEM**
+**Group: 8**
 
-<div align="center">**Group: 8**
+**University of Science and Technology of Hanoi**
 
-<div align="center">**University of Science and Technology of Hanoi**
-
-<div align="center">May,2021
+May,2021
+</div>
 
 **Group members**
 
