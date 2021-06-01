@@ -130,7 +130,7 @@ History function:
 
 >&ensp;&ensp;&ensp;Firstly ,we divided the code into package “hotel_management” and 2 files: “database_script”, “db_information_scripts”.
 
->&ensp;&ensp;&ensp;Secondly, we divided the package “hotel_magagement” into 3 packages: “control”, “model”, “view” and file “main_hotel”.
+>&ensp;&ensp;&ensp;Secondly, we divided the package “hotel_management” into 3 packages: “control”, “model”, “view” and file “main_hotel”.
     
 - “database_script” file: the database of the hotel in SQL file.
 - “db_information_scripts” file: inserts new rows into four existing database tables.
