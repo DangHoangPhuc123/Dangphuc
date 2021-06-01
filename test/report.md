@@ -3,11 +3,11 @@
 
 # &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Report Project: HOTEL MANAGEMENT SYSTEM**
 
-**Group: 8** <p align=center>
+<div align="center">**Group: 8**
 
-**University of Science and Technology of Hanoi**
+<div align="center">**University of Science and Technology of Hanoi**
 
-May,2021
+<div align="center">May,2021
 
 **Group members**
 
