@@ -3,25 +3,28 @@
 Advanced Programming with Python
 
 # **Report Project: HOTEL MANAGEMENT SYSTEM**
-
+     
+&nbsp;
+     
 **Group: 8**
 
 **University of Science and Technology of Hanoi**
 
 May,2021
 
+     &nbsp;
 
-**Group members**
+## **Group members**
 
-> LÊ ANH TÚ
+Lê Anh Tú
 
-> ĐỖ MẠNH THẮNG
+Đỗ Mạnh Thắng
 
-> NGUYỄN NGỌC KHIÊM
+Nguyễn Ngọc Khiêm
 
-> NGUYỄN VĂN CƯỜNG
+Nguyễn Văn Cường
 
-> ĐẶNG HOÀNG PHÚC
+Đặng Hoàng Phúc
  
  </div>
 
