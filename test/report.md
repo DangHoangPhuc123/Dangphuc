@@ -1,5 +1,5 @@
 <div align="center">
-# **[Advanced Programming with Python](https://moodle.usth.edu.vn/course/view.php?id=781)**
+# **Advanced Programming with Python**
 
 # **Report Project: HOTEL MANAGEMENT SYSTEM**
 
@@ -8,7 +8,7 @@
 **University of Science and Technology of Hanoi**
 
 May,2021
-</div>
+
 
 **Group members**
 
@@ -21,6 +21,8 @@ May,2021
 > NGUYỄN VĂN CƯỜNG
 
 > ĐẶNG HOÀNG PHÚC
+ 
+ </div>
 
 ## **TABLE OF CONTENT:**
 
