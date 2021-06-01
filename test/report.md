@@ -12,11 +12,14 @@ May,2021
 **Group members**
 
 > LÊ ANH TÚ
-ĐỖ MẠNH THẮNG
-NGUYỄN NGỌC KHIÊM
-NGUYỄN VĂN CƯỜNG
-ĐẶNG HOÀNG PHÚC
 
+> ĐỖ MẠNH THẮNG
+
+> NGUYỄN NGỌC KHIÊM
+
+> NGUYỄN VĂN CƯỜNG
+
+> ĐẶNG HOÀNG PHÚC
 
 ## **TABLE OF CONTENT:**
 
@@ -26,15 +29,15 @@ NGUYỄN VĂN CƯỜNG
 - [IV/ The creation](#The_creation)
   * [1.The idea of creating a system model](#The_idea_of_creating_a_system_model)
   * [2.Database schema](#Database_schema) 
-    + [a) Relationship between tables:](#Relationship_between_tables:)
+    + [a) Relationship between tables:](#Relationship_between_tables)
     + [b) Tables functions:](#Tables_functions)
-  * [3. Python modules, classes and packages:](#Python_modules,_classes_and_packages:)
-  * [4. UI structure:](#UI_structure:)
-    + [a) Check in:](#Check_in:)
-    + [b) Room manage:](#Room_manage:)
-    + [c) Room order:](#Room_order:)
-    + [d) Check out:](#Check_out:)
-    + [e) History:](#History:)
+  * [3. Python modules, classes and packages:](#Python_modules,_classes_and_packages)
+  * [4. UI structure:](#UI_structure)
+    + [a) Check in:](#Check_in)
+    + [b) Room manage:](#Room_manage)
+    + [c) Room order:](#Room_order)
+    + [d) Check out:](#Check_out)
+    + [e) History:](#History)
 - [V/ Conclusion](#Conclusion)
 
 ## I/ Introduction
@@ -138,6 +141,7 @@ History function:
 ![](RackMultipart20210601-4-vn3mgl_html_77489d2a0169df12.png)
 
 > &ensp;&ensp;&ensp;The first five blanks, user can enter information of either customers and the day the customer starts renting the room.
+
 > &ensp;&ensp;&ensp;Note: the user must enter the correct required format otherwise a red error will appear in each empty space.
 
 > &ensp;&ensp;&ensp;The last two blanks, users can choose the room type and availability as required by the customer.
