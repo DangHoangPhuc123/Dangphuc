@@ -93,6 +93,8 @@ History function:
 
 &ensp;&ensp;&ensp;**The database** is the source of information that we used to create this project. So we designed a database diagram to help you understand how the system works, it is designed with 9 fundamental tables that are closely related to each other.
 
+![](image/database.jpg)
+
 #### a) Relationship between tables:
 
 + Tables with one-to-one relationship: &quot;cusstomer&quot;, &quot;room\_type&quot;, &quot;room\_status&quot;, &quot;supply&quot;.
@@ -114,6 +116,7 @@ History function:
 ### 3. Python modules, classes and packages:
 &ensp;&ensp;&ensp;In this project, we divide it into various small sections to facilitate easy processing:
 
+![](image/python_package.jpg)
 
 >&ensp;&ensp;&ensp;Firstly ,we divided the code into package “hotel_management” and 2 files: “database_script”, “db_information_scripts”.
 
@@ -131,14 +134,14 @@ History function:
 
 &ensp;&ensp;&ensp;Here is the main user interface that we designed:
 
-![](RackMultipart20210601-4-vn3mgl_html_2397a73ad8635085.png) 
+![](image/UIstructure.jpg) 
 
 > &ensp;&ensp;&ensp;It has five functionalitys to select: check in, room manage, room order, check out, history.
 
 
 #### a) Check in:
 
-![](RackMultipart20210601-4-vn3mgl_html_77489d2a0169df12.png)
+![](image/Checkin.jpg)
 
 > &ensp;&ensp;&ensp;The first five blanks, user can enter information of either customers and the day the customer starts renting the room.
 
@@ -148,23 +151,26 @@ History function:
 
 #### b) Room manage:
 
+![](image/roomstatus.jpg)
 
 > &ensp;&ensp;&ensp;Display a list of available or unavailable room statuses.
 
 #### c) Room order:
+
+![](image/order.jpg)
 
 > &ensp;&ensp;&ensp;Based on the order of the customer who is renting the room, the user selects the type of item and the quantity provided to that customer.
 
 
 #### d) Check out:
 
-![](RackMultipart20210601-4-vn3mgl_html_7293663f067bb80f.png)
+![](image/checkout.jpg)
 
 > &ensp;&ensp;&ensp;Select the room and fill in the customer&#39;s check-out date, thereby calculating the customer&#39;s invoice.
 
 #### e) History:
 
-![](RackMultipart20210601-4-vn3mgl_html_519eb211b7c3d2bd.png)
+![](image/history.jpg)
 
 > &ensp;&ensp;&ensp;After each customer check-out, automatically store the hotel room rental period and the amount paid by the customer.
 
