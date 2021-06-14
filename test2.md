@@ -144,32 +144,34 @@ Step 10: Storage receive client request and show the content of storage through 
 ### 5. Client UI <a name="implementation5"></a>
 &ensp;&ensp;&ensp;**Last but not least, it helps us to see more clearly about the client's interface in this system.**
 
-- Connect load balancer on 8000 ports
+&ensp;&ensp;&ensp; Connect load balancer on 8000 ports
 
 ![](image/roomstatus2.jpg)
 
-- Enter host name form load balancer: 139.59.117.55
+&ensp;&ensp;&ensp; Enter host name form load balancer: 139.59.117.55
 
 ![](image/roomstatus2.jpg)
 
-- Enter username and password: hung, 123 (The client sends username/password to LB. LB forwards this login info to the authentication server. Authentication server verifies the user, responses yes/no for the login. LB forwards this yes/no response to the client.)
+&ensp;&ensp;&ensp; Enter username and password: hung, 123 (The client sends username/password to LB. LB forwards this login info to the authentication server. Authentication server verifies the user, responses yes/no for the login. LB forwards this yes/no response to the client.)
 
 ![](image/roomstatus2.jpg)
 
-- The interface of the system appears 4 options for the user
-	+ firstly choose: get file which means download allows the user to download a file from storage.
+&ensp;&ensp;&ensp; The interface of the system appears 4 options for the user
+
+- First choose: get file which means download allows the user to download a file from storage.
+
+![](image/roomstatus2.jpg)
+- Second choose: Put file - Upload allows the user to upload a file to storage. 
 
 ![](image/roomstatus2.jpg)
 
-	+ Secondly choose: Put file - Upload allows the user to upload a file to storage. 
+- Thỉrd choose: List file - If the user wants to upload files to storage, this option will have the task of displaying the files that the user wants to upload. Otherwise, If the user wants to download files from storage, this option will have the task of displaying the files that the user wants to download.
+
 
 ![](image/roomstatus2.jpg)
 
-- Next choose: List file - If the user wants to upload files to storage, this option will have the task of displaying the files that the user wants to upload. Otherwise, If the user wants to download files from storage, this option will have the task of displaying the files that the user wants to download.
 
-![](image/roomstatus2.jpg)
-
-- Final choose: quit - The system will confirm finish the job and disconnects from the host.
+- Last choose: quit - The system will confirm finish the job and disconnects from the host.
 
 ![](image/roomstatus2.jpg)
 
