@@ -171,7 +171,7 @@ Step 10: Storage receive client request and show the content of storage through 
 ![](image/roomstatus2.jpg)
 
 
-- Last choose: quit - The system will confirm finish the job and disconnects from the host.
+- Last choose: quit - The system will confirm finish the work and disconnects from the host.
 
 ![](image/roomstatus2.jpg)
 
