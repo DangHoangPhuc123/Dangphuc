@@ -70,7 +70,9 @@ Nguyễn Văn Cường
 ### 1. Online storage system <a name="implementation1"></a>
 
 &ensp;&ensp;&ensp;**Firstly, I will talk about how the Online Storage System works.**
+
 ![](image/roomstatus2.jpg)
+
 ```
 The system working as follows:
 
