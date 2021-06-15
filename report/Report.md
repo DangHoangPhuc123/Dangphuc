@@ -71,7 +71,9 @@ Nguyễn Văn Cường
 
 &ensp;&ensp;&ensp;**Firstly, I will talk about how the Online Storage System works.**
 <div align="center">
+	
 ![](image/system.png)
+	
 </div>
 
 ```
