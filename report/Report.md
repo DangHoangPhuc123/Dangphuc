@@ -151,7 +151,7 @@ Step 10: Storage receive client request and show the content of storage through 
 
 ![](image/connect.png)
 
-&ensp;&ensp;&ensp; Enter host name form load balancer: 139.59.117.55
+&ensp;&ensp;&ensp; Enter host name from load balancer: 139.59.117.55
 
 ![](image/host.png)
 
@@ -163,20 +163,20 @@ Step 10: Storage receive client request and show the content of storage through 
 
 ![](image/choose.png)
 
-- First choose: get file which means download allows the user to download a file from storage.
+- First choice: get file which means download allows the user to download a file from storage.
 
 ![](image/1.png)
-- Second choose: Put file - Upload allows the user to upload a file to storage. 
+- Second choice: Put file - Upload allows the user to upload a file to storage. 
 
 ![](image/2.png)
 
-- Thỉrd choose: List file - If the user wants to upload files to storage, this option will have the task of displaying the files that the user wants to upload. Otherwise, If the user wants to download files from storage, this option will have the task of displaying the files that the user wants to download.
+- Thỉrd choice: List file - If the user wants to upload files to storage, this option will have the task of displaying the files that the user wants to upload. Otherwise, If the user wants to download files from storage, this option will have the task of displaying the files that the user wants to download.
 
 
 ![](image/3.png)
 
 
-- Last choose: quit - The system will confirm finish the work and disconnects from the host.
+- Last choice: quit - The system will confirm finish the work and disconnects from the host.
 
 ![](image/4.png)
 
