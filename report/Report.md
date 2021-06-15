@@ -10,17 +10,19 @@ Network Programing
 **University of Science and Technology of Hanoi**
 
 June 2021
+	
+	
 
 <br/>
 
 ## **Group members**
 
 ```
-Nguyễn Ngọc Khiêm
+Nguyễn Ngọc Khiêm BA9-028
 
-Nguyễn Văn Cường
+Nguyễn Văn Cường BA9-011
 
-Đặng Hoàng Phúc
+Đặng Hoàng Phúc BA9-050
 ``` 
 </div>
 <br/>
