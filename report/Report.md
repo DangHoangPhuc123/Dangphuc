@@ -50,7 +50,7 @@ Nguyễn Văn Cường
 
 ### 2. Why we need Client? <a name="intro2"></a>
 
-&ensp;&ensp;&ensp;A client provides an environment in which you can upload files to a server, download files from a server to your device, and view and manage files stored on your web server.
+&ensp;&ensp;&ensp;A client provides an environment in which you can upload files to a server, download files from a server to your device, view and manage files stored on your web server.
 
 &ensp;&ensp;&ensp;Many clients allow you to do other things too, like connect to cloud storage platforms (i.e Dropbox and Google Drive), download files from server and upload files to storage server.
 
