@@ -71,7 +71,7 @@ Nguyễn Văn Cường
 
 &ensp;&ensp;&ensp;**Firstly, I will talk about how the Online Storage System works.**
 
-![](image/roomstatus2.jpg)
+![](image/system.png)
 
 ```
 The system working as follows:
@@ -146,34 +146,36 @@ Step 10: Storage receive client request and show the content of storage through 
 
 &ensp;&ensp;&ensp; Connect load balancer on 8000 ports
 
-![](image/roomstatus2.jpg)
+![](image/connect.png)
 
 &ensp;&ensp;&ensp; Enter host name form load balancer: 139.59.117.55
 
-![](image/roomstatus2.jpg)
+![](image/host.png)
 
 &ensp;&ensp;&ensp; Enter username and password: hung, 123 (The client sends username/password to LB. LB forwards this login info to the authentication server. Authentication server verifies the user, responses yes/no for the login. LB forwards this yes/no response to the client.)
 
-![](image/roomstatus2.jpg)
+![](image/user.png)
 
 &ensp;&ensp;&ensp; The interface of the system appears 4 options for the user
 
+![](image/choose.png)
+
 - First choose: get file which means download allows the user to download a file from storage.
 
-![](image/roomstatus2.jpg)
+![](image/1.png)
 - Second choose: Put file - Upload allows the user to upload a file to storage. 
 
-![](image/roomstatus2.jpg)
+![](image/2.png)
 
 - Thỉrd choose: List file - If the user wants to upload files to storage, this option will have the task of displaying the files that the user wants to upload. Otherwise, If the user wants to download files from storage, this option will have the task of displaying the files that the user wants to download.
 
 
-![](image/roomstatus2.jpg)
+![](image/3.png)
 
 
 - Last choose: quit - The system will confirm finish the work and disconnects from the host.
 
-![](image/roomstatus2.jpg)
+![](image/4.png)
 
 
 ## III/ Conclusions <a name="conclusion"></a>
